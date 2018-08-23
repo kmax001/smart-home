@@ -1,0 +1,38 @@
+[DebugChecksum]
+Checksum=540094255
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "E:\D盘\baidu资料\项目\7.温湿度传感器DHT11-温湿度+光照\ZStack-CC2530-2.3.0-1.4.0\Components\osal\common\OSAL_Timers.c" ""
+A1=_ "E:\D盘\baidu资料\项目\7.温湿度传感器DHT11-温湿度+光照\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A2=_ "E:\work\zigbee\taobao\软件资料\未打包的\开发例程\5应用与组网\7.温湿度传感器DHT11\ZStack-CC2530-2.3.0-1.4.0\Components\osal\common\OSAL_Timers.c" ""
+A3=_ "E:\work\zigbee\taobao\软件资料\未打包的\开发例程\5应用与组网\7.温湿度传感器DHT11\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+Count=4
+SuppressDialog=0

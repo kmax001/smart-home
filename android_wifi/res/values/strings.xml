@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">智能家居管理系统</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">智能家居管理系统</string>
+    <string name="node_title1">终端1</string>
+    <string name="strSetLimit">设置阀值</string>
+    <string name="init_temp">温度：0℃</string>
+    <string name="init_humi">湿度：0%</string>
+    <string name="init_light">光照：0%</string>
+    <string name="temp_limit">温度阀值:</string>
+    <string name="humi_limit">湿度阀值:</string>
+    <string name="light_limit">光照阀值:</string>
+    <string name="tips">提示信息：关闭所有灯</string>
+    <string name="network">网络设置</string>
+    <string name="lamp_off">关闭所有灯</string>
+    <string name="lamp_on">打开所有灯</string>
+    <string name="scene">模式</string>
+    <string name="exit">退出</string>    
+    <string name="init_tips">提示：请连接网络</string>
+    <string name="btn_rfid_find_card">寻卡</string>
+    <string name="btn_rfid_read_card">读卡</string>
+    <string name="rfid_init_prompt">请读取rfid信息</string>
+    <string name="btn_step_string1">正转</string>
+    <string name="btn_step_string2">反转</string>
+    <string name="btn_step_string3">加速</string>
+	<string name="btn_step_string4">减速</string>
+	<string name="btn_step_string5">停止</string>
+	<string name="desc1">image_desc</string>
+    <string name="desc2">image_desc</string>
+    <string name="desc3">image_desc</string>
+    <string name="desc4">image_desc</string>
+    <string name="desc5">image_desc</string>
+    <string name="desc6">image_desc</string>
+    <string name="desc7">image_desc</string>
+    <string name="desc8">image_desc</string>
+
+</resources>
